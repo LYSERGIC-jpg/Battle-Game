@@ -1,6 +1,6 @@
 # Battle Game
 
-A text-based battle simulator where you choose weapons (Dagger, Sword, Hammer) and fight a beast.
+A text-based battle simulator where you choose weapons (Dagger, Sword, Hammer) and fight an enemy.
 
 ## Next patch
 
